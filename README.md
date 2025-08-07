@@ -1,0 +1,2 @@
+# DS-AI-Final-Project-Sentiment-Analysis-for-Mental-Health---NLP
+Technical Detail: Added specific parameters (10K features, C=100) Enhanced Performance Section: Included all major F1-scores (91% for Bipolar) Expanded Applications: More detailed real-world use cases Better Tech Stack: Organized with core libraries and techniques Refined Content: Added "computational psychology" and specific methodology details
